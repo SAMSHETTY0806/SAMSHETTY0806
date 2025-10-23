@@ -35,7 +35,7 @@ AI & ML enthusiast | Passionate about building intelligent solutions | Open to c
 ---
 
 ## 📈 GitHub Stats
-![Sampanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sampanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMSHETTY0806&show_icons=true&theme=radical)
 
 ---
 
