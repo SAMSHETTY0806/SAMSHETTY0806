@@ -17,21 +17,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [Real-Time Emotion Detection](YOUR_REPO_LINK)
-![emotion-detection](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
-- Detects emotions from live video using **OpenCV & TensorFlow**  
-- Real-time analysis and visualization  
-
-### [Smart Chatbot](YOUR_REPO_LINK)
-![chatbot](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-- AI-powered conversational assistant using **NLP models**  
-- Deployed with **Flask**  
-
-### [Recommendation System](YOUR_REPO_LINK)
-- Suggests content using **Python, Pandas, Scikit-learn**  
-- Personalized & scalable solution  
 
 ---
 
